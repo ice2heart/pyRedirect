@@ -1,5 +1,7 @@
 {  
-   "ya.ru":"http://google.com",
-   "yandex.ru":"http://google.com",
-   "linux.org.ru":"http://kernel.org"
+   "ya.ru":"https://google.com",
+   "yandex.ru":"https://google.com",
+   "linux.org.ru":"https://kernel.org",
+   "pikabu.ru":"http://9gag.com",
+   "bash.im":"http://bash.org"
 }
